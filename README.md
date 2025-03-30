@@ -1,4 +1,4 @@
 #React practice
 
 #Demo
-[GitHub Page](https://github.com/YanaNaumova/practikum18.09-2)
+[GitHub Page](https://yananaumova.github.io/practikum18.09-2)
