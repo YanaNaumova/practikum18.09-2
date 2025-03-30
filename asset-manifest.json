@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YanaNaumova/practikum18.09-2/static/css/main.e6c13ad2.css",
+    "main.js": "/YanaNaumova/practikum18.09-2/static/js/main.1fd6abc6.js",
+    "index.html": "/YanaNaumova/practikum18.09-2/index.html",
+    "main.e6c13ad2.css.map": "/YanaNaumova/practikum18.09-2/static/css/main.e6c13ad2.css.map",
+    "main.1fd6abc6.js.map": "/YanaNaumova/practikum18.09-2/static/js/main.1fd6abc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1fd6abc6.js"
+  ]
+}
